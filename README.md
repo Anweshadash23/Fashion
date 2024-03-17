@@ -1,0 +1,2 @@
+# Fashion
+Outfit blog page
